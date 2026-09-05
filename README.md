@@ -1,10 +1,10 @@
-# ENM-AIIR for Tropical Cyclones
+# Vortex Estimation from Geostationary Analysis - VEGA
 
 [English](#english) | [中文](#中文)
 
 A deep learning model for estimating tropical cyclone intensity (Dvorak T-number) from single-band satellite infrared imagery.
 
-**Live Demo:** [https://enm-aiir.pages.dev/](https://enm-aiir.pages.dev/)
+**Live Demo (as of 2026 July):** [https://enm-aiir.pages.dev/](https://enm-aiir.pages.dev/)
 
 ---
 
@@ -13,11 +13,11 @@ A deep learning model for estimating tropical cyclone intensity (Dvorak T-number
 
 ### Overview
 
-ENM-AIIR is a deep learning model for estimating tropical cyclone intensity from satellite imagery, based on the Dvorak technique's T-number scale. The model is trained on over 3,100 single-band satellite images of storms from the Northwest Pacific and Austraila basins.
+ENM-AIIR is a deep learning model for estimating tropical cyclone intensity from satellite imagery, based on the Dvorak technique's T-number scale. The model is trained on over 3,600 high-quality labeled single-band satellite images of storms from the Pacific and Austrailan basins by reanalysis.
 
 ### Dataset
 
-- **Size:** 3,100+ images
+- **Size:** 3,600+ images
 - **Coverage:** Tropical cyclones from the Northwest Pacific and Austraila basins
 - **Imagery:** Single-band long-wave infrared (IR Band-13), which enhances cloud-top brightness and helps capture the spatial structure of the storm (e.g. spiral banding, eye clarity, central dense overcast)
 - **Labels:** Each image is paired with a corresponding T-number (Dvorak technique) as the intensity label
