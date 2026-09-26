@@ -1,4 +1,4 @@
-# Vortex Estimation from Geostationary Analysis - VEGA
+# Artificial General Cyclone Intelligence - AGCI
 
 [English](#english) | [中文](#中文)
 
