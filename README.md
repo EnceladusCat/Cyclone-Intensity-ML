@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#中文)
 
-A deep learning model for estimating tropical cyclone intensity (Dvorak T-number) from single-band satellite infrared imagery.
+A machine learning model for estimating tropical cyclone intensity (Dvorak T-number) from single-band satellite infrared imagery.
 
 **Live Demo (as of 2026 July):** [https://enm-aiir.pages.dev/](https://enm-aiir.pages.dev/)
 
